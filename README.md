@@ -26,7 +26,7 @@ APPARATUS REQUIRED:
 <br/>
 <br/>
 <br/>
-Theory:
+THEORY:-
 <br/>
 •	A two way switch is installed near the first step of the stairs. The other two way switch is installed at the upper part where the stair ends.
 <br/>
@@ -41,7 +41,8 @@ Theory:
 <br/>
 <br/>
 <br/>
-PROCEDURE
+PROCEDURE:-
+<br/>
 •  Place the accessories on the wiring board as per the circuit diagram.
 <br/>
 •  Place the P.V.C pipe and insert two wires into the P.V.C pipe.
